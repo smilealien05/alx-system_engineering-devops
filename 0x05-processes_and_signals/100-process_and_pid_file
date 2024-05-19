@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+# creates a file and displays msgs corresponding to signal
 
 terminator(){
 	rm /var/run/myscript.pid
